@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "python app.py",
+    "dev": "python app.py"
+  }
+}
